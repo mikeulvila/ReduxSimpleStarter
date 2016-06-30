@@ -6,4 +6,4 @@ npm-debug.log
 *.iml
 /.idea
 
-API_KEY.js
+src/API_KEY.js
